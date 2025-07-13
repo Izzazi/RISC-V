@@ -1,7 +1,7 @@
 /* -----------------------------------------------------------------------------
 * Project Name   : Architectures of Processor Systems (APS) lab work
-* Organization   : National Research University of Electronic Technology (MIET)
-* Department     : Institute of Microdevices and Control Systems
+* Organization   :
+* Department     : 
 * Author(s)      : Ilya Khmara
 * Email(s)       : 
 * ------------------------------------------------------------------------------
